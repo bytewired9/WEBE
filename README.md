@@ -6,4 +6,4 @@ We are just people who believe Bedrock should have the same building qualities a
 
 <img src="WEBE.png"
      alt="WEBE Logo"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 50px;" />
