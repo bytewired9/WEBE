@@ -1,0 +1,19 @@
+{
+  "name": "@bdsx/webe",
+  "version": "0.0.1",
+  "description": "World Edit for Bedrock Edition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForgedCore8/WEBE.git"
+  },
+  "author": "SquawkSquad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ForgedCore8/WEBE/issues"
+  },
+  "homepage": "https://github.com/ForgedCore8/WEBE#readme"
+}
