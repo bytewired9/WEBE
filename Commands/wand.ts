@@ -12,7 +12,7 @@ import { shellPrepareData } from "bdsx/shellprepare/data";
 import * as fs from 'fs';
 import * as path from 'path';
 
-command.register('/wand', 'Give WEBE wand', CommandPermissionLevel.Operator).overload((param, origin, output) => {
+command.register('wwand', 'Give WEBE wand', CommandPermissionLevel.Operator).overload((param, origin, output) => {
 
     output.success("§o§5Successfully Given Wand"),
         origin.getEntity()?.runCommand(`give @s webe:wand`);
