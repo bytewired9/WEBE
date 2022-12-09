@@ -1,5 +1,5 @@
 {
-  "name": "webe",
+  "name": "@bdsx/webe",
   "version": "0.0.1",
   "description": "World Edit for Bedrock Edition",
   "main": "index.js",
