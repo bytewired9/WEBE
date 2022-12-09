@@ -1,17 +1,5 @@
+console.log('[WEBE] Loading...');
 import { events } from "bdsx/event";
+import './commands/index';
 
-
-console.log('[ExamplePlugin] allocated');
-// before BDS launching
-
-events.serverOpen.on(()=>{
-    console.log('[ExamplePlugin] launched');
-    // after BDS launched
-});
-
-events.serverClose.on(()=>{
-    console.log('[ExamplePlugin] closed');
-    // after BDS closed
-});
-
-
+console.log('[WEBE] Finished Loading!')
